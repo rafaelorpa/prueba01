@@ -1,2 +1,2 @@
 # prueba01
-Prueba de repositorio
+Prueba de repositorio para la practica git
